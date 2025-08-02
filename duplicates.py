@@ -9,4 +9,3 @@ def remove_duplicates(nums):
             unique_index += 1
             nums[unique_index] = nums[i]                
     return unique_index + 1
-
