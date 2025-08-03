@@ -1,5 +1,6 @@
-# dsa_practise
+# 15 Days of DSA Challenge
 
-## 1. leetcode question 1 two-sum
-## 2. leetcode question 26 remove-duplicates-from-sorted-array
-## 3. leetcode question 53 maximum-subarray
+## Day 1 challenges
+> 1. [leetcode index **1**](https://leetcode.com/problems/two-sum/description/) two-sum
+> 2. [leetcode index **26**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) remove-duplicates-from-sorted-array
+> 3. [leetcode index **53** ](https://leetcode.com/problems/merge-k-sorted-lists) maximum-subarray
