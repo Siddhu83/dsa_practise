@@ -9,3 +9,9 @@
 > 1. [LeetCode index **121**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) best-time-to-buy-and-sell-stock
 > 2. [LeetCode index **125**](https://leetcode.com/problems/product-of-array-except-self) product-of-array-except-self
 > 3. [LeetCode index **238** ](https://leetcode.com/problems/valid-palindrome) valid-palindrome
+
+
+### Day 3 challenges
+> 1. [LeetCode index **242**](https://leetcode.com/problems/valid-anagram) valid-anagram
+> 2. [LeetCode index **125**](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) find-the-index-of-the-first-occurrence-in-a-string
+> 3. [LeetCode index **238** ](https://leetcode.com/problems/group-anagrams) group-anagrams
