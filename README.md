@@ -15,3 +15,13 @@
 > 1. [LeetCode index **242**](https://leetcode.com/problems/valid-anagram) valid-anagram
 > 2. [LeetCode index **28**](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) find-the-index-of-the-first-occurrence-in-a-string
 > 3. [LeetCode index **49** ](https://leetcode.com/problems/group-anagrams) group-anagrams
+
+### Day 4 challenges
+> 1. [LeetCode index **560**](https://leetcode.com/problems/subarray-sum-equals-k) subarray-sum-equals-k
+> 2. [LeetCode index **5**](https://leetcode.com/problems/longest-palidromic-substring) longest-palidromic-substring
+> 3. [LeetCode index **20** ](https://leetcode.com/problems/valid-parentheses) valid-parentheses
+
+### Day 5 challenges
+> 1. [LeetCode index **704**](https://leetcode.com/problems/binary-search) binary-search
+> 2. [LeetCode index **141**](https://leetcode.com/problems/linked-list-cycle) linked-list-cycle
+> 3. [LeetCode index **42** ](https://leetcode.com/problems/trapping-rain-water) trapping-rain-water
