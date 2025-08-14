@@ -1,4 +1,4 @@
-# leetcode question 394: decode string
+# leetcode question 71: simplify path
 
 def simplify_path(path: str) -> str:
     stack = []
