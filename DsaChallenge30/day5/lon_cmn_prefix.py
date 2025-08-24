@@ -1,3 +1,4 @@
+from typing import List
 def commonPrefix(str1, str2):
     common = ''
     for i in zip(str1, str2):
