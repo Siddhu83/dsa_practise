@@ -1,5 +1,3 @@
-# leetcode question: https://leetcode.com/problems/design-circular-queue/
-
 class MyCircularQueue:
     def __init__(self, k: int):
         self.queue = [0] * k
