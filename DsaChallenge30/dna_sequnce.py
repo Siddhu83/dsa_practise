@@ -1,7 +1,7 @@
 from collections import Counter
 
 class Solution:
-    def findRepeatedDnaSequences(s: str) -> list[str]:
+    def findRepeatedDnaSequences(self, s: str) -> list[str]:
         if len(s) < 10:
             return []
         count = Counter()
